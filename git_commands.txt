@@ -23,3 +23,10 @@ git status
 clear
 git restore testing.py 
 ls -l
+
+git remote add origin https://github.com/RonitNayak18/github_for_devops_workshop.git 
+git remote -v
+git remote set-url origin https://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@github.com/RonitNayak18/github_for_devops_workshop.git
+git remote -v
+git push origin master 
+git clone https://github.com/RonitNayak18/github_for_devops_workshop.git 
