@@ -1,0 +1,25 @@
+python testing.py 
+python3 testing.py
+ls -l
+clear
+git init
+clear
+la -l
+ls -l
+clear
+ls -l
+ls -al
+clear
+git status 
+git add .
+git status 
+clear
+git commit -m "added testing files"
+git status 
+clear
+rm testing.py 
+ls -l
+git status 
+clear
+git restore testing.py 
+ls -l
